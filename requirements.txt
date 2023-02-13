@@ -1,0 +1,13 @@
+asgi-redis==1.4.3
+asgiref==3.6.0
+Django==4.1.6
+django-ajax-chat==0.2
+django-appconf==1.0.5
+django-user-accounts==3.2.0
+msgpack-python==0.5.6
+Pillow==9.4.0
+pytz==2022.7.1
+redis==2.10.6
+six==1.16.0
+sqlparse==0.4.3
+tzdata==2022.7
